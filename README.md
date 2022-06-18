@@ -1,3 +1,3 @@
 # Description
 
-Simple API written in Express.js and using MongoDB, that lets you add users and exercises and get the exercisies of a given user. You also can select to see exercises between any given dates and limit the search results to a given number.
+Simple API written using Node.js, Express, and MongoDB. It lets you track users and their exercises. Users and exercises can be added via a POST request. It is also possible to get information about the exercises of a given user via a GET request. The request is able to limit the results returned to the ones between any given dates and/or to a specific number.
